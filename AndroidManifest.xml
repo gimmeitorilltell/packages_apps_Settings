@@ -2816,7 +2816,6 @@
         </activity>
 
         <activity android:name=".sim.SimPreferenceDialog"
-            android:theme="@*android:style/Theme.DeviceDefault.Settings.Dialog.NoActionBar"
             android:excludeFromRecents="true">
         </activity>
 
